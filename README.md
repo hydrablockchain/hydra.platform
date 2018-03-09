@@ -1,2 +1,0 @@
-# hydra.platform
-Hydra platform

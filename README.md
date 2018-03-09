@@ -1,2 +1,2 @@
 # hydra.platform
-Hydra platform
+[Hydra platform](https://hydrablockchain.github.io/hydra.platform/)
